@@ -1,0 +1,7 @@
+docker
+requests
+flake8
+beautifulsoup4
+crewai
+crewai[tools]
+python-dotenv
